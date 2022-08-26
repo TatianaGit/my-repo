@@ -6,3 +6,9 @@ p {
     text-align: justify;
     background: yellow;
 }
+
+h2 {
+    color: green;
+    background: pink;
+    text-align: center;
+}
